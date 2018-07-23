@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/src/database.properties" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/log4j.properties" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/path.properties" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/ua/nure/brovenko/SummaryTask4/command/ActionCommand.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/ua/nure/brovenko/SummaryTask4/command/ActionFactory.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/ua/nure/brovenko/SummaryTask4/command/EmptyCommand.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/ua/nure/brovenko/SummaryTask4/command/LoginCommand.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/ua/nure/brovenko/SummaryTask4/command/LogoutCommand.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/ua/nure/brovenko/SummaryTask4/connection/ConnectionPool.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/ua/nure/brovenko/SummaryTask4/connection/Pool.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/ua/nure/brovenko/SummaryTask4/dao/UserDAO.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/ua/nure/brovenko/SummaryTask4/exception/AuthenticationLogicalException.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/ua/nure/brovenko/SummaryTask4/exception/AuthenticationTechnicalException.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/ua/nure/brovenko/SummaryTask4/exception/CommandException.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/ua/nure/brovenko/SummaryTask4/exception/ConnectionPoolException.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/ua/nure/brovenko/SummaryTask4/exception/DAOLogicalException.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/ua/nure/brovenko/SummaryTask4/exception/DAOTechnicalException.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/ua/nure/brovenko/SummaryTask4/resources/DBConfigurationManager.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/ua/nure/brovenko/SummaryTask4/resources/MailSender.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/ua/nure/brovenko/SummaryTask4/resources/PathManager.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web/WEB-INF/tld" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web/css/error.css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web/css/login.css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web/photo" charset="UTF-8" />
+    <file url="PROJECT" charset="windows-1251" />
+  </component>
+</project>
